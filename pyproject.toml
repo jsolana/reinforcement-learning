@@ -1,0 +1,15 @@
+[project]
+name = "reinforcement-learning"
+version = "0.1.0"
+description = "Reinforcement learning examples"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ale-py>=0.11.2",
+    "gymnasium>=1.3.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.2.6",
+    "opencv-python>=4.13.0.92",
+    "torch==2.2.2",
+    "tqdm>=4.67.3",
+]
