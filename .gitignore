@@ -11,3 +11,6 @@ wheels/
 
 # pickle data
 *.pkl
+
+# png files
+*.png
